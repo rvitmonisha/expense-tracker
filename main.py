@@ -5,6 +5,7 @@ import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 DATA_DIR = Path("data")
 DATA_FILE = DATA_DIR / "expenses.csv"
 
